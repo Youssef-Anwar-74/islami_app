@@ -1,10 +1,9 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:islami_app/home/home_screen.dart';
 import 'package:islami_app/utils/app_routes.dart';
 
 void main() {
-  runApp(app);
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
